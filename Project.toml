@@ -6,3 +6,6 @@ NetworkLayout = "46757867-2c16-5918-afeb-47bfcb05e46a"
 Qrochet = "881a8f22-b5d0-48b0-96e5-a244b33f36d4"
 Quac = "b9105292-1415-45cf-bff1-d6ccf71e6143"
 Tenet = "85d41934-b9cd-44e1-8730-56d86f15f3ec"
+
+[compat]
+Qrochet = "0.1.1"
